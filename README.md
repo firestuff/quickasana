@@ -1,3 +1,9 @@
+# MOVED
+
+This repository has moved to [https://g.fc.run/asana/quickasana](https://g.fc.run/asana/quickasana)
+
+---
+
 # Quick Asana
 
 _Quick Asana is an unofficial extension that uses the Asana API and is not developed or endorsed by Asana, Inc., the makers of Asana._
